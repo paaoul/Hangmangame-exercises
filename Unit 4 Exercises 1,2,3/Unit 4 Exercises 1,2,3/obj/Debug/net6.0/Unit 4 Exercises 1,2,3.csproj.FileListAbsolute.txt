@@ -1,0 +1,15 @@
+D:\clean\Documents\Project Files C#\Unit 4 Exercises 1,2,3\Unit 4 Exercises 1,2,3\obj\Debug\net6.0\Unit 4 Exercises 1,2,3.csproj.AssemblyReference.cache
+D:\clean\Documents\Project Files C#\Unit 4 Exercises 1,2,3\Unit 4 Exercises 1,2,3\obj\Debug\net6.0\Unit 4 Exercises 1,2,3.GeneratedMSBuildEditorConfig.editorconfig
+D:\clean\Documents\Project Files C#\Unit 4 Exercises 1,2,3\Unit 4 Exercises 1,2,3\obj\Debug\net6.0\Unit 4 Exercises 1,2,3.AssemblyInfoInputs.cache
+D:\clean\Documents\Project Files C#\Unit 4 Exercises 1,2,3\Unit 4 Exercises 1,2,3\obj\Debug\net6.0\Unit 4 Exercises 1,2,3.AssemblyInfo.cs
+D:\clean\Documents\Project Files C#\Unit 4 Exercises 1,2,3\Unit 4 Exercises 1,2,3\obj\Debug\net6.0\Unit 4 Exercises 1,2,3.csproj.CoreCompileInputs.cache
+D:\clean\Documents\Project Files C#\Unit 4 Exercises 1,2,3\Unit 4 Exercises 1,2,3\bin\Debug\net6.0\Unit 4 Exercises 1,2,3.exe
+D:\clean\Documents\Project Files C#\Unit 4 Exercises 1,2,3\Unit 4 Exercises 1,2,3\bin\Debug\net6.0\Unit 4 Exercises 1,2,3.deps.json
+D:\clean\Documents\Project Files C#\Unit 4 Exercises 1,2,3\Unit 4 Exercises 1,2,3\bin\Debug\net6.0\Unit 4 Exercises 1,2,3.runtimeconfig.json
+D:\clean\Documents\Project Files C#\Unit 4 Exercises 1,2,3\Unit 4 Exercises 1,2,3\bin\Debug\net6.0\Unit 4 Exercises 1,2,3.dll
+D:\clean\Documents\Project Files C#\Unit 4 Exercises 1,2,3\Unit 4 Exercises 1,2,3\bin\Debug\net6.0\Unit 4 Exercises 1,2,3.pdb
+D:\clean\Documents\Project Files C#\Unit 4 Exercises 1,2,3\Unit 4 Exercises 1,2,3\obj\Debug\net6.0\Unit 4 Exercises 1,2,3.dll
+D:\clean\Documents\Project Files C#\Unit 4 Exercises 1,2,3\Unit 4 Exercises 1,2,3\obj\Debug\net6.0\refint\Unit 4 Exercises 1,2,3.dll
+D:\clean\Documents\Project Files C#\Unit 4 Exercises 1,2,3\Unit 4 Exercises 1,2,3\obj\Debug\net6.0\Unit 4 Exercises 1,2,3.pdb
+D:\clean\Documents\Project Files C#\Unit 4 Exercises 1,2,3\Unit 4 Exercises 1,2,3\obj\Debug\net6.0\Unit 4 Exercises 1,2,3.genruntimeconfig.cache
+D:\clean\Documents\Project Files C#\Unit 4 Exercises 1,2,3\Unit 4 Exercises 1,2,3\obj\Debug\net6.0\ref\Unit 4 Exercises 1,2,3.dll
